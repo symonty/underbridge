@@ -35,11 +35,11 @@ Underbridge_alt was packaged on a different system. Might help if you run into p
 
 ### Mac Install - ( tested on Mac OS Monterey 12.3 )
 
-install portaudio: `brew install portaudio`
-install mido: `pip install mido`
-install tk: `brew install python-tk`
-install rt-midi: `pip install python-rtmidi`
-install pyaudio: `pip install pyaudio`
+- install portaudio: `brew install portaudio`
+- install mido: `pip install mido`
+- install tk: `brew install python-tk`
+- install rt-midi: `pip install python-rtmidi`
+- install pyaudio: `pip install pyaudio`
 
 **Set OP-Z device as input in sound of system preferences**
 
